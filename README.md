@@ -138,7 +138,7 @@ mvn test
 
 ## 👨‍💻 Author
 
-**Anupam Kumar**\
+**Raghav Mishra**\
 🎓 Computer Science Engineer\
 💻 Fullstack Developer\
 🚀 Passionate about building scalable applications
